@@ -59,7 +59,7 @@ will appear and the lab materials will automatically download the lab files.
 To complete a lab and move on, you must do two things:
 
 * Write a solution that passes all the tests for that lab. Unless otherwise
-specified, testing your work is done by entering the `learn` command in the
+specified, testing your work is done by entering the `learn test` command (or just `learn`)  in the
 terminal. Running this command lets Learn know when you have a working solution.
 * Submit your code. By entering `learn submit` into the terminal, a pull
 request on GitHub will be created using the solution you have written,
