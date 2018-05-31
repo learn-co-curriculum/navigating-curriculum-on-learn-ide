@@ -19,15 +19,17 @@ Learn. Organized together, they form what we refer to as a _track_. Tracks are
 typically organized into topics, with each topic containing a series of specific
 lessons.
 
-Click on the track name above to pop open Track Navigation, which allows you to
-view topics and move between lessons.
+To view the lessons in this track, pop open the track navigation by clicking
+'Curriculum' in the upper left corner of the page.  
 
-![Click for Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/HowToNavigateCurriculum.png)
+![Click for Navigation dropdown](https://s3.amazonaws.com/ironboard-learn/curriculum_drop_down.png)
 
-![View Navigation dropdown](https://curriculum-content.s3.amazonaws.com/intro-to-learn/ExpandedNav.png)
+The track navigation allows you to view topics within the course you are in, navigate between lessons, and get an overview of upcoming content.
 
-Later lessons build off the earlier ones, so you must complete a lesson before
-you advance to the next one.
+![View Navigation dropdown](https://s3.amazonaws.com/ironboard-learn/curriculum_navigation_menu.png)
+
+Later lessons build off the earlier ones, so it is strongly advised that you
+complete each lesson before you advance to the next one. Use this navigation to go back and review previous content if needed.
 
 Lessons you've completed will be filled in with a green circle, and your current
 lesson will be orange.
@@ -39,7 +41,11 @@ There are two types of lessons on Learn: READMEs and Labs.
 #### Labs
 
 Labs are lessons with a coding challenge you must complete. A lab will require
-you to write code and submit a solution.
+you to write code and submit a solution. You can quickly tell if a lesson is a lab by looking for the _flask_ icon:
+
+![readme icon](https://s3.amazonaws.com/ironboard-learn/lab-icon.png)
+
+If you are on a lab, this icon will be displayed to the right of the lesson title.  It also appears in the track navigation beside each lab.
 
 All labs include a README that you will see on Learn. The lab README will
 describe the objectives, overview, and instructions for the code you must write.
@@ -78,6 +84,12 @@ are designed to teach you something without challenging you to practice or
 implement the concept directly. The lesson you are currently reading is a
 README.
 
+READMEs have an open book as their icon for quick identification:
+
+![readme icon](https://s3.amazonaws.com/ironboard-learn/readme-icon.png)
+
+Similar to labs, this will appear beside the lesson title as well as in the track navigation.
+
 READMEs provide context and exposition on a topic by breaking concepts down.
 READMEs are how you learn enough to solve a lab.
 
@@ -97,9 +109,11 @@ Some READMEs also contain brief interactive elements such as quizzes or little
 in-browser coding challenges.
 
 Once you've completed a README, you should click the "I'm Done" button on the
-right. The "Next Lesson" button will light up, allowing you to proceed.
+right:
 
 ![Readme not done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/readmeUndone.png)
+
+When clicked, 'Started Reading' will change to 'Completed', and the "Next Lesson" button will light up, allowing you to proceed:
 
 ![Readme done](https://curriculum-content.s3.amazonaws.com/intro-to-learn/readmeDone.png)
 
