@@ -94,8 +94,8 @@ READMEs provide context and exposition on a topic by breaking concepts down.
 READMEs are how you learn enough to solve a lab.
 
 As you can probably tell already, Learn is a big fan of the written word. Some
-READMEs have videos, but our expectation is that you also do the reading. The
-video augments the content; it does not replace it.
+READMEs have videos, but our expectation is that you also do the reading. **The
+video augments the content; it does not replace it.**
 
 You're going to have to do a lot of reading on Learn. We know other platforms
 make heavy use of 3-6 minute videos, and we're going to continue to experiment
