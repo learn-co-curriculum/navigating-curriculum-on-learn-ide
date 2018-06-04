@@ -68,7 +68,7 @@ terminal. Running this command lets Learn know when you believe that you have a 
 * Submit your code. When the tests are all passing, type `learn submit` into the terminal
 to let Learn know that you're ready to move to the next lesson.
 
-Occasionally, you will encounter labs that do not have tests which we call _code
+Occasionally, you may encounter labs that do not have tests which we call _code
 alongs_. These lessons do not have a challenge to solve, but are designed for a
 hands on approach to learning a concept.  For these, you will not need to run
 `learn` to pass tests, but _will_ need to run `learn submit` when you are
