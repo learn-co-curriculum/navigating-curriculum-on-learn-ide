@@ -65,9 +65,8 @@ To complete a lab and move on, you must do two things:
 * Write a solution that passes all the tests for that lab. Unless otherwise
 specified, testing your work is done by typing the `learn test` command (or just `learn`)  in the
 terminal. Running this command lets Learn know when you believe that you have a working solution.
-* Submit your code. By entering `learn submit` into the terminal, a pull
-request on GitHub will be created using the solution you have written,
-indicating to Learn that you are ready to move to the next lesson.
+* Submit your code. When the tests are all passing, type `learn submit` into the terminal
+to let Learn know that you're ready to move to the next lesson.
 
 Occasionally, you will encounter labs that do not have tests which we call _code
 alongs_. These lessons do not have a challenge to solve, but are designed for a
