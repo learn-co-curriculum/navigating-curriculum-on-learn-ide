@@ -56,15 +56,15 @@ you to take. Labs will display the following on the right:
 ![Lab](https://curriculum-content.s3.amazonaws.com/intro-to-learn/LabLights.png)
 
 To start a lab using the in-browser IDE, click the "Open IDE" button.  The IDE
-will appear and the lab materials will automatically download the lab files.
+will appear with a copy of the lab materials within it.
 
 ![IDE](https://downloads.intercomcdn.com/i/o/41909803/629210713d1b1343c88b60d7/learnIde6.gif)
 
 To complete a lab and move on, you must do two things:
 
 * Write a solution that passes all the tests for that lab. Unless otherwise
-specified, testing your work is done by entering the `learn test` command (or just `learn`)  in the
-terminal. Running this command lets Learn know when you have a working solution.
+specified, testing your work is done by typing the `learn test` command (or just `learn`)  in the
+terminal. Running this command lets Learn know when you believe that you have a working solution.
 * Submit your code. By entering `learn submit` into the terminal, a pull
 request on GitHub will be created using the solution you have written,
 indicating to Learn that you are ready to move to the next lesson.
