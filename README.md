@@ -2,9 +2,8 @@
 
 ## Overview
 
-At this point, you've created a Learn account. Before you start, though, let's
-get a little more familiar with how lessons work on Learn.  In this README, we
-will briefly go over:
+Before we go any further, let's get a little more familiar with how lessons 
+work on Learn.  In this README, we will briefly go over:
 
 * How content is organized on Learn
 * The standard Learn workflow
