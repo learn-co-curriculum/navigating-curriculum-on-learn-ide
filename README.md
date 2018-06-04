@@ -2,8 +2,7 @@
 
 ## Overview
 
-At this point, you've created a Learn account and set up an integrated
-development environment (more on that later). Before you start, though, let's
+At this point, you've created a Learn account. Before you start, though, let's
 get a little more familiar with how lessons work on Learn.  In this README, we
 will briefly go over:
 
